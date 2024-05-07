@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: head
 title: Parakorn Leknamongkol
 permalink: /
 ---
@@ -12,8 +12,8 @@ Email
 - For tutoring : `math.p.earth [AT] gmail [DOT] com`
 Tel: (+THAI)-84-383-1612
 
-## Resume Summary or Resume Objective
-----
+
+Lorem Ipsum
 
 
 ## Work Experience
