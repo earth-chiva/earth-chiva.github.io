@@ -1,8 +1,10 @@
 ---
-layout: head
+layout: page
 title: Parakorn Leknamongkol
 permalink: /
 ---
+
+
 
 ## Contact Information
 ----
