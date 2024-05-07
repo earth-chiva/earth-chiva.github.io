@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Parakorn Leknamongkol
 permalink: /
 ---
 
-
+# Parakorn Leknamongkol
 
 ## Contact Information
 ----
 
-Email    
+#### Email    
 - For personal : `parakorn.lk [AT] gmail [DOT] com`
 - For tutoring : `math.p.earth [AT] gmail [DOT] com`
-Tel: (+THAI)-84-383-1612
+#### Tel: 
+(+THAI)-84-383-1612
 
 
 Lorem Ipsum
