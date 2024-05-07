@@ -1,4 +1,7 @@
+# Parakorn Leknamongkol
+
 ## Contact Information
+----
 
 ### Email
     
@@ -6,9 +9,11 @@
 - For tutoring : `math.p.earth [AT] gmail [DOT] com`
 
 ## Resume Summary or Resume Objective
+----
 
 
 ## Work Experience
+----
 
 ### 2018 - Present
 #### Mathematics Tutor @ Math P’Earth
@@ -36,9 +41,11 @@ final examinations.
 Developed a Slack bot using Java for reporting the status of the automatic backup jobs.
 
 ## Skills
+----
 
 
 ## Education
+----
 
 ### Bachelor of Engineering GPAX 3.90 (Valedictorian Award)
 #### Electrical Engineering and Computer Science, Kyushu University
@@ -47,14 +54,16 @@ Developed a Slack bot using Java for reporting the status of the automatic backu
 Graduation Thesis, supervised by Prof. Hirokawa Masao
 
 ## Awards / Achievements
+----
 
-### 2015  
+### 2015
 - POSN Computer Olympiad Round 2
 
 ### 2017
 - Received 800/790/800 on SAT Subject II (Math/Physics/Chemistry)
 - Passed the Qualifying Examination of Japanese Government Scholarship (Embassy Undergraduates)
-### 2018 
+
+### 2018
 - Accepted Japanese government scholarship (University Recommendation)
 
 
