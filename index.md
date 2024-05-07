@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Profile
 permalink: /
 ---
 
@@ -54,6 +55,10 @@ Developed a Slack bot using Java for reporting the status of the automatic backu
 - **English**: C1 (IELTS 7.0 taken 2018)
 - **Japanese**: Intermediate (approx. JLPT N3)
 
+### Devoloping Tools
+
+**Proficient**:C/C++, Python, JavaScript, TypeScript, Java, React, Git, MongoDB, LaTeX, QuTiP
+**Experienced**: Docker, PostgreSQL
 
 ## Education
 ----
