@@ -9,11 +9,11 @@ permalink: /
 ### Contact Information
 ----
 
-#### Email    
+#### Email :   
 - For personal : `parakorn.lk [AT] gmail [DOT] com`
 - For tutoring : `math.p.earth [AT] gmail [DOT] com`
 
-#### Telephone: (+THAI)-84-383-1612
+#### Telephone : (+THAI)-84-383-1612
 
 
 
@@ -39,7 +39,7 @@ permalink: /
 - 80% of the students passed the 90th-percentile on mathematics midterm and final examinations.
 
 
-### Sep 2021 
+#### Sep 2021 
 #### **Java Developer (Internship)** @ LINE Fukuoka
 
 Developed a Slack bot using Java for reporting the status of the automatic backup jobs.

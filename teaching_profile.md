@@ -6,10 +6,7 @@ permalink: /students
 
 ## Past Students
 
-- 2023
+### 2024
 
-| Name         | Nickname | Goal                          | Result | Remark |
-|--------------|----------|-------------------------------|--------|--------|
-| Gino Bertini | Gino     | Faculty of Science, Chemistry | /      |        |
-| Smart        |          |                               |        |        |
-|              |          |                               |        |        |
+### 2023
+
